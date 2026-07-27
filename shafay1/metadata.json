@@ -1,0 +1,6 @@
+{
+  "name": "Smart WiFi Assistant",
+  "description": "A modern self-service broadband management platform for managing WiFi packages, billing, router settings, device controls, usage analytics, speed tests, and AI support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
