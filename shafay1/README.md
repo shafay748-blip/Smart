@@ -5,7 +5,7 @@
 ---
 
  Live Demo
-
+Live URL:** https://github.com/shafay748-blip/Smart
 Live URL:** https://smart-ix3m.vercel.app/
 
  Problem Statement
@@ -206,7 +206,7 @@ Version Control
 ## Clone Repository
 
 ```bash
-git clone 
+git clone https://github.com/shafay748-blip/Smart
 ```
 
 
