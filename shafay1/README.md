@@ -5,7 +5,6 @@
 ---
 
  Live Demo
-Live URL:** https://github.com/shafay748-blip/Smart
 Live URL:** https://smart-ix3m.vercel.app/
 
  Problem Statement
